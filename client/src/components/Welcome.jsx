@@ -51,7 +51,7 @@ const Welcome = () => {
                        className="flex flex-row justify-center items-center my-5 bg-[#2952e3] p-3 cursor-pointer hover:bg-[#2546bd]"
                     >
                       <AiFillInfoCircle className="text-white mr-2"/>
-                       <p className="text-white text-base font-semibold">Please ensure your Metamask account is connected</p>
+                       <p className="text-white text-base font-semibold">Click here to connect your Metamask wallet</p>
                     </button>
                    )}
 
